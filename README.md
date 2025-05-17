@@ -1,40 +1,40 @@
-# CSV Plot Viewer (csv-plot-viewer)
+# Quasar Frontend Project
 
-Upload CSV & Plot Graphs
 
-## Install the dependencies
+## Technologies & Quasar Features Used
+
+- Vue 3
+- Quasar CLI
+- Quasar Components:
+  - QLayout, QHeader, QToolbar
+  - QPage
+  - QCard
+  - QBtn
+- Material Icons
+
+---
+
+## Prerequisites
+
+- Node.js (v16 or higher recommended)
+- Quasar CLI installed globally:
+
 ```bash
-yarn
-# or
-npm install
+npm install -g @quasar/cli
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/quasar-project.git
+cd quasar-project
+```
+2. Install Dependencies
+```bash
+npm install
+```
+3. Start the development server
 ```bash
 quasar dev
 ```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-
-### Format the files
-```bash
-yarn format
-# or
-npm run format
-```
-
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
+Visit http://localhost:9000 to view.
