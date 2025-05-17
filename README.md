@@ -38,3 +38,9 @@ npm install
 quasar dev
 ```
 Visit http://localhost:9000 to view.
+## Screenshots
+
+![Default Page](screenshots/image.png)
+![CSV Uploaded](screenshots/image1.png)
+![Linechart](screenshots/image2.png)
+![BarGraph](screenshots/image3.png)
